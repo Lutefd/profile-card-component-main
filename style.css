@@ -59,7 +59,8 @@ header {
   font-weight: 400;
   color: var(--gray-drk);
   text-align: center;
-  margin-top: -2rem;
+  margin-top: -2.5rem;
+  font-size: 1.2rem;
 }
 .location {
   text-align: center;
